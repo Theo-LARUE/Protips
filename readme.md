@@ -139,7 +139,7 @@ html {
 - Attention au Vh et à son contenu. 100Vh = 100Vh quoi qu'il arrive.
 - Vw : très utile pour les interfacs fluides.
 
-### Flexboxgrid
+## Flexboxgrid
 
 Les modificateurs réactifs permettent de spécifier différentes tailles de colonnes, décalages, alignement et distribution aux largeurs de la fenêtre xs, sm, md & lg
 
@@ -158,7 +158,7 @@ Les modificateurs réactifs permettent de spécifier différentes tailles de col
     voir flexboxgrid.min.css
 ```
 
-# Flexbox Grid
+## Flexbox Grid
 
 [flexboxgrid.com](http://flexboxgrid.com)
 
@@ -202,7 +202,7 @@ Add the `flexboxgrid.css` **development** or `flexboxgrid.min.css` **production*
 - [philipwalton.github.io/solved-by-flexbox/demos/grids](http://philipwalton.github.io/solved-by-flexbox/demos/grids/)
 - [davidwalsh.name/stylus-grid](http://davidwalsh.name/stylus-grid)
 
-### Parcel Starter
+# Parcel Starter
 
 - https://github.com/davidvenin/parcel-starter
 
@@ -244,7 +244,7 @@ Ouvrir le projet sur l'url `http://localhost:1234/`
             |-- [...]
 ```
 
-### MySQL commandes & requêtes
+# MySQL commandes & requêtes
 
 ## Commands
 
@@ -361,9 +361,9 @@ Grant `ALL` access to user for `*` tables: `GRANT ALL ON database.* TO 'user'@'l
 
 `SHOW VARIABLES WHERE Variable_name = 'hostname';` ([source](http://serverfault.com/a/129646))
 
-### Git commandes & Info
+# Git commandes & Info
 
-# Github
+## Github
 
 ## Rappel
 
